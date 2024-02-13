@@ -7,3 +7,5 @@ Para correr el juego debes seguir las siguientes Instrucciones en la terminal
 cd game
 python3 main.py
 ```
+
+Autor: Fernando Salazar Muñoz
