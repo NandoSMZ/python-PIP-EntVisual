@@ -8,4 +8,12 @@ cd game
 python3 main.py
 ```
 
-Autor: Fernando Salazar Muñoz
+# App Project
+
+```sg
+git clone
+cd app
+source env/bin/activate
+pip3 installl -r requirements.txt
+python3 main.py
+```
